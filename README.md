@@ -18,7 +18,5 @@ We are actually immitating like we are driving an electric scooter so there is t
 
 ### Sample snaps of PCB and the projector
 
-```
-  ![Alt Inputs of the model ](https://github.com/yosiaLukumai/JWTZ_Projector_mover/blob/master/hardware/schematics/front.png)
-  ![Alt Outputs of the model ](https://github.com/yosiaLukumai/JWTZ_Projector_mover/blob/master/hardware/schematics/back.png)
-```
+![Alt Inputs of the model ](https://github.com/yosiaLukumai/JWTZ_Projector_mover/blob/master/hardware/schematics/front.png)
+![Alt Outputs of the model ](https://github.com/yosiaLukumai/JWTZ_Projector_mover/blob/master/hardware/schematics/back.png)
