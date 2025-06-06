@@ -13,7 +13,7 @@ We are actually immitating like we are driving an electric scooter so there is t
 
 ### Tech stacks
 
-1. Arduino framework
+1. Arduino framework (PlattformIO)
 2. Easyeda for Schematic and PCB.
 
 ### Sample snaps of PCB and the projector
